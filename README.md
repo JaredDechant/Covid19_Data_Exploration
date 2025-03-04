@@ -1,6 +1,6 @@
 # Covid19_Data_Exploration
-
+I completed this guided project in order to enhance my data visualization skills with Tableau.
 
 
 ## References
-- [Repository Name](https://github.com/username/repository) - Utilized for implementing the authentication system.
+- [PortfolioProjects](https://github.com/AlexTheAnalyst/PortfolioProjects)  
